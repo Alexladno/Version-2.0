@@ -1,0 +1,24 @@
+ insert into anikashin values ('Понедельник', 'База-данных', '1ИСиП-22', 'Аникашин', 1, 29, '1.01', 'No');
+   insert into anikashin values ('Понедельник', 'База-данных', '1ИСиП-22', 'Аникашин', 2, 29, '1.01', 'No');
+   insert into anikashin values ('Понедельник', 'База-данных', '2ИСиП-22', 'Аникашин', 3, 29, '1.01', 'No');
+   insert into anikashin values ('Понедельник', 'Пусто', 'Пусто', 'Пусто', 4, 0, '1.01', 'No'); 
+
+   insert into anikashin values ('Вторник', 'База-данных', '1ИСиП-22', 'Аникашин', 1, 29, '1.02','No');
+   insert into anikashin values ('Вторник', 'База-данных', '1ИСиП-22', 'Аникашин', 2, 29, '1.02','No');
+   insert into anikashin values ('Вторник', 'База-данных', '2ИСиП-22', 'Аникашин', 3, 29, '1.02','No');
+   insert into anikashin values ('Вторник', 'База-данных', '2ИСиП-22', 'Аникашин', 4, 29, '1.02', 'No');
+
+   insert into anikashin values ('Среда', 'Пусто', 'Пусто', 'Аникашин', 1, 0,  '1.03','No');
+   insert into anikashin values ('Среда', 'База-данных', '2ИСиП-22', 'Аникашин', 2, 29, '1.03', 'No');
+   insert into anikashin values ('Среда', 'База-данных', '2ИСиП-22', 'Аникашин', 3, 29,  '1.03', 'No');
+   insert into anikashin values ('Среда', 'База-данных', '1ИСиП-22', 'Аникашин', 4, 29, '1.03', 'No');
+
+   insert into anikashin values ('Четверг', 'База-данных', '2ИСиП-22', 'Аникашин', 1, 29, '1.04','No');
+   insert into anikashin values ('Четверг', 'База-данных', '2ИСиП-22', 'Аникашин', 2, 29, '1.04', 'No');
+   insert into anikashin values ('Четверг', 'База-данных', '1ИСиП-22', 'Аникашин', 3, 29, '1.04', 'No');
+   insert into anikashin values ('Четверг', 'Пусто', 'Пусто', 'Пусто', 4, 0,  '1.04', 'No');
+
+   insert into anikashin values ('Пятница', 'Пусто', 'Пусто', 'Пусто', 1, 0, '1.05', 'No');
+   insert into anikashin values ('Пятница', 'База-данных', '1ИСиП-22', 'Аникашин', 2, 29, '1.05', 'No');
+   insert into anikashin values ('Пятница', 'База-данных', '1ИСиП-22', 'Аникашин', 3, 29, '1.05', 'No');
+   insert into anikashin values ('Пятница', 'База-данных', '1ИСиП-22', 'Аникашин', 4, 29, '1.05', 'No');

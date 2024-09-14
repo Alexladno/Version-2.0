@@ -1,0 +1,33 @@
+﻿<Window x:Class="Регистрация.DataBases"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Регистрация"
+        mc:Ignorable="d"
+        Title="DataBases" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="Сервер:" Margin="0 8 0 0"/>
+        <TextBox x:Name="serverName" Grid.Row="0" Margin="96,5,5,5"/>
+
+        <Label Grid.Row="1" Content="База-данных:" Margin="0 8 0 0"/>
+        <TextBox x:Name="bazaName" Grid.Row="1" Margin="96,5,5,5"/>
+
+        <Label Grid.Row="2" Content="Логин:" Margin="0 8 0 0"/>
+        <TextBox x:Name="loginName" Grid.Row="2" Margin="96,5,5,5"/>
+
+        <Label Grid.Row="3" Content="Пароль:" Margin="0 8 0 0"/>
+        <PasswordBox x:Name="passName" Grid.Row="3" Margin="96,5,5,5"/>
+
+        <Button Content="Connect" Grid.Row="4" Grid.Column="1" Margin="5" Click="Button_Click"/>
+    </Grid>
+</Window>

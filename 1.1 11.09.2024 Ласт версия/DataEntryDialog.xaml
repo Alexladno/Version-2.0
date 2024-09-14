@@ -1,0 +1,21 @@
+﻿<Window x:Class="Регистрация.DataEntryDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ввод данных" Height="310" Width="400">
+    <Grid>
+        <StackPanel>
+            <Label Content="Выберите дату:" />
+            <DatePicker x:Name="DatePicker" SelectedDateChanged="DatePicker_SelectedDateChanged"/>
+            <Label Content="Преподаватель:" />
+            <ComboBox x:Name="TeacherComboBox"/>
+            <Label Content="Группа:" />
+            <ComboBox x:Name="GroupComboBox"/>
+            <Label Content="Аудитория:" />
+            <TextBox x:Name="AudienceTextBox"/>
+            <Label Content="Предмет:" />
+            <TextBox x:Name="SubjectTextBox"/>
+            <Button Content="ОК" Click="OkButton_Click"/>
+            <Button Content="Отмена" Click="CancelButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

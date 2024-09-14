@@ -1,0 +1,2148 @@
+E:\Регистрация\bin\Debug\Регистрация.exe.config
+E:\Регистрация\bin\Debug\Регистрация.exe
+E:\Регистрация\bin\Debug\Регистрация.pdb
+E:\Регистрация\bin\Debug\MaterialDesignColors.dll
+E:\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Регистрация\bin\Debug\MaterialDesignColors.pdb
+E:\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Регистрация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+E:\Регистрация\obj\Debug\MainWindow.g.cs
+E:\Регистрация\obj\Debug\App.g.cs
+E:\Регистрация\obj\Debug\Регистрация_MarkupCompile.cache
+E:\Регистрация\obj\Debug\Регистрация_MarkupCompile.lref
+E:\Регистрация\obj\Debug\App.baml
+E:\Регистрация\obj\Debug\MainWindow.baml
+E:\Регистрация\obj\Debug\Регистрация.g.resources
+E:\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+E:\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+E:\Регистрация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+E:\Регистрация\obj\Debug\Регистрация.csproj.CopyComplete
+E:\Регистрация\obj\Debug\Регистрация.exe
+E:\Регистрация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Регистрация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Регистрация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео)\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация (4 видео) — копия (2)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация — копия\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\UserPageWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\UserPageWindow.baml
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Мобильные проекты\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\UserPageWindow.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\UserPageWindow.baml
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\ИНН\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Vkladka2.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Vkladka3.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Vkladka2.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\Регистрация + Авторизация\obj\Debug\Vkladka3.baml
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\New\Desktop\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Login.g.cs
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka2.g.cs
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka3.g.cs
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\App.g.cs
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\App.baml
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Login.baml
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka2.baml
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka3.baml
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+C:\Users\New\Desktop\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Login.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Vkladka2.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\vkladka3.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\App.g.cs
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\App.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Login.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Vkladka2.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\vkladka3.baml
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+D:\Програмирование\Дипломные проэкты\Проекты (2 ссылка)\887\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+E:\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+E:\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+E:\887\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+E:\887\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+E:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+E:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+E:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+E:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+E:\887\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+E:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+E:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+E:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\887\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+E:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+E:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+E:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+E:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+E:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+E:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+E:\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+E:\887\Регистрация + Авторизация\obj\Debug\Login.g.cs
+E:\887\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+E:\887\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+E:\887\Регистрация + Авторизация\obj\Debug\Vkladka2.g.cs
+E:\887\Регистрация + Авторизация\obj\Debug\vkladka3.g.cs
+E:\887\Регистрация + Авторизация\obj\Debug\App.g.cs
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+E:\887\Регистрация + Авторизация\obj\Debug\App.baml
+E:\887\Регистрация + Авторизация\obj\Debug\Login.baml
+E:\887\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+E:\887\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+E:\887\Регистрация + Авторизация\obj\Debug\Vkladka2.baml
+E:\887\Регистрация + Авторизация\obj\Debug\vkladka3.baml
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+E:\887\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+F:\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+F:\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+F:\887\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+F:\887\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+F:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+F:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+F:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+F:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+F:\887\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+F:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+F:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+F:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\887\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+F:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+F:\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+F:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+F:\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+F:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+F:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+F:\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+F:\887\Регистрация + Авторизация\obj\Debug\Login.g.cs
+F:\887\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+F:\887\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+F:\887\Регистрация + Авторизация\obj\Debug\Vkladka2.g.cs
+F:\887\Регистрация + Авторизация\obj\Debug\vkladka3.g.cs
+F:\887\Регистрация + Авторизация\obj\Debug\App.g.cs
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+F:\887\Регистрация + Авторизация\obj\Debug\App.baml
+F:\887\Регистрация + Авторизация\obj\Debug\Login.baml
+F:\887\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+F:\887\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+F:\887\Регистрация + Авторизация\obj\Debug\Vkladka2.baml
+F:\887\Регистрация + Авторизация\obj\Debug\vkladka3.baml
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+F:\887\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Програмирование\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Login.g.cs
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Vkladka2.g.cs
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\vkladka3.g.cs
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\App.g.cs
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\App.baml
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Login.baml
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Vkladka2.baml
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\vkladka3.baml
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CopyComplete
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+D:\Програмирование\887\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka2.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\vkladka3.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Vkladka2.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\vkladka3.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация\obj\Debug\Регистра.C7548D7C.Up2Date
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Vkladka1.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\vkladka3.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\Dynamitey.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\ExtraTools.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Vkladka1.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\vkladka3.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\Регистра.C7548D7C.Up2Date
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\test.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\test.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\test1.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация\obj\Debug\test1.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\Dynamitey.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\ExtraTools.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистра.C7548D7C.Up2Date
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Registration.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Registration.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Rezim.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Rezim.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Admin.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Admin.baml
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Admintwo.g.cs
+C:\Users\ADMIN\Desktop\887\Регистрация + Авторизация — копия\obj\Debug\Admintwo.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Dynamitey.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtraTools.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admin.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admintwo.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Registration.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezim.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admin.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admintwo.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Registration.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezim.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистра.C7548D7C.Up2Date
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspstud.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspstud.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwour.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimur.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwour.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimur.baml
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\DataBases.g.cs
+C:\Users\ADMIN\Desktop\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\DataBases.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe.config
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Регистрация.pdb
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Dynamitey.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtraTools.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\System.Drawing.Common.dll
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.xml
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.xml
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.xml
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.pdb
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\887\Расписание\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admin.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admintwo.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\DataBases.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Login.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspstud.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Registration.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezim.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwour.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimur.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\App.g.cs
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.cache
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.lref
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\App.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admin.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Admintwo.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\DataBases.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Login.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Raspstud.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Registration.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezim.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimtwour.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Rezimur.baml
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.g.resources
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.Properties.Resources.resources
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистра.C7548D7C.Up2Date
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.exe
+D:\887\Расписание\Регистрация + Авторизация — копия\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\Dynamitey.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\ExtraTools.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Admin.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\DataBases.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Raspstud.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Registration.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezim.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezimtwour.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezimur.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Admin.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\DataBases.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Raspisanie.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Raspisanie4u.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Raspstud.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Registration.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezim.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezimtwo.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezimtwour.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Rezimur.baml
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистра.C7548D7C.Up2Date
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Otchetp.g.cs
+C:\Users\ADMIN\Desktop\Регистрация + Авторизация — копия\obj\Debug\Otchetp.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Dynamitey.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\ExtraTools.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Admin.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\DataBases.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Otchetp.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie4u.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Registration.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezim.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwo.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwour.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimur.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Admin.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\DataBases.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Otchetp.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie4u.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Registration.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezim.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwo.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwour.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimur.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистра.C7548D7C.Up2Date
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Drawing.Common.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\Регистрация.exe.config
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\Регистрация.exe
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\Регистрация.pdb
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\Dynamitey.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.SqlServer.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFConverters.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\ExtraTools.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignColors.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\System.Drawing.Common.dll
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\EntityFramework.SqlServer.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFConverters.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignColors.pdb
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\System.Drawing.Common.pdb
+F:\Дипломная работа\Расписание\Приложение\bin\Debug\System.Drawing.Common.xml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Admin.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\DataBases.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Login.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Otchetp.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie4u.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Raspstud.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Registration.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezim.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwo.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwour.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimur.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\App.g.cs
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация_MarkupCompile.cache
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация_MarkupCompile.lref
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\App.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Admin.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\DataBases.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Login.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Otchetp.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Raspisanie4u.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Raspstud.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Registration.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezim.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwo.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimtwour.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Rezimur.baml
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.g.resources
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.Properties.Resources.resources
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.csproj.GenerateResource.cache
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистра.C7548D7C.Up2Date
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.exe
+F:\Дипломная работа\Расписание\Приложение\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Регистрация.exe.config
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Common.Logging.Core.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Common.Logging.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Dynamitey.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\ExtraTools.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.barcodes.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.commons.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.font_asian.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.forms.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.html2pdf.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.io.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.kernel.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.layout.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.licensekey.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.pdfa.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.pdfua.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.sign.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.styledxmlparser.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.svg.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\MaterialDesignColors.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Common.Logging.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Common.Logging.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Common.Logging.Core.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Common.Logging.Core.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.barcodes.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.commons.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.font_asian.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.forms.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.html2pdf.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.io.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.kernel.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.layout.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.licensekey.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.pdfa.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.pdfua.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.sign.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.styledxmlparser.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\itext.svg.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Admin.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\DataBases.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Login.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Otchetp.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Raspisanie.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Raspisanie4u.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Raspstud.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Registration.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezim.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezimtwo.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezimtwour.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezimur.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\App.g.cs
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\App.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Admin.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\DataBases.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Login.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Otchetp.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Raspisanie.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Raspisanie4u.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Raspstud.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Registration.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezim.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezimtwo.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezimtwour.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Rezimur.baml
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация.g.resources
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистра.C7548D7C.Up2Date
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация.exe
+C:\Users\ADMIN\Desktop\Новая папка\Расписание\Приложение\obj\Debug\Регистрация.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Common.Logging.Core.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Common.Logging.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.barcodes.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.commons.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.font_asian.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.forms.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.html2pdf.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.io.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.kernel.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.layout.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.licensekey.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.pdfa.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.pdfua.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.sign.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.styledxmlparser.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.svg.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Common.Logging.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Common.Logging.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Common.Logging.Core.pdb
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Common.Logging.Core.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.barcodes.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.commons.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.font_asian.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.forms.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.html2pdf.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.io.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.kernel.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.layout.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.licensekey.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.pdfa.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.pdfua.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.sign.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.styledxmlparser.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\itext.svg.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rasp_prepod.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rasp_stud.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rasp_prepod.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\Rasp_stud.baml
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\AdminVerification.g.cs
+C:\Users\ADMIN\Desktop\Дипломная работа\Расписание\Приложение\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Регистрация.exe.config
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Common.Logging.Core.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Common.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Dynamitey.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\EntityFramework.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\ExtraTools.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.barcodes.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.commons.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.font_asian.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.forms.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.html2pdf.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.io.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.kernel.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.licensekey.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.pdfa.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.pdfua.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.sign.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.svg.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\MaterialDesignColors.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Buffers.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Drawing.Common.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Memory.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.ValueTuple.dll
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Common.Logging.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Common.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Common.Logging.Core.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Common.Logging.Core.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\EntityFramework.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.barcodes.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.commons.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.font_asian.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.forms.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.html2pdf.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.io.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.kernel.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.layout.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.licensekey.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.pdfa.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.pdfua.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.sign.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\itext.svg.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Buffers.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Drawing.Common.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Drawing.Common.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Memory.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\bin\Debug\System.ValueTuple.xml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Admin.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\AdminVerification.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\DataBases.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Login.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Otchetp.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Raspisanie.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Raspisanie4u.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rasp_prepod.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rasp_stud.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Registration.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezim.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezimtwo.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezimtwour.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezimur.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\App.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\App.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Admin.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\DataBases.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Login.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Otchetp.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Raspisanie.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Raspisanie4u.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rasp_prepod.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rasp_stud.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Registration.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezim.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezimtwo.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezimtwour.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Rezimur.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация.g.resources
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\________.C7548D7C.Up2Date
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Otchety.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Otchety.baml
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Admin8.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Raspisanie-main\obj\Debug\Admin8.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Регистрация.exe.config
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Dynamitey.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\ExtraTools.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.barcodes.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.commons.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.font_asian.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.forms.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.html2pdf.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.io.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.kernel.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.licensekey.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.pdfa.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.pdfua.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.sign.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.svg.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignColors.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Buffers.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Memory.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.ValueTuple.dll
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.barcodes.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.commons.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.font_asian.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.forms.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.html2pdf.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.io.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.kernel.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.layout.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.licensekey.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.pdfa.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.pdfua.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.sign.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\itext.svg.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Buffers.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Memory.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\bin\Debug\System.ValueTuple.xml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Admin.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Admin8.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\AdminVerification.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\DataBases.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Login.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Otchetp.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Otchety.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Raspisanie.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Raspisanie4u.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rasp_prepod.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Registration.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezim.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezimtwo.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezimtwour.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezimur.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\App.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\App.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Admin.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Admin8.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\DataBases.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Login.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Otchetp.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Otchety.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Raspisanie.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Raspisanie4u.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rasp_prepod.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Registration.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezim.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezimtwo.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezimtwour.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Rezimur.baml
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация.g.resources
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\________.C7548D7C.Up2Date
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Testw.g.cs
+C:\Users\sasaa\OneDrive\Desktop\09.09.2024 Raspisanie-main\obj\Debug\Testw.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Регистрация.exe.config
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Dynamitey.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\ExtraTools.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.barcodes.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.commons.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.font_asian.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.forms.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.html2pdf.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.io.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.kernel.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.licensekey.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfa.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfua.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.sign.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.svg.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignColors.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Buffers.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Memory.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.ValueTuple.dll
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.barcodes.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.commons.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.font_asian.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.forms.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.html2pdf.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.io.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.kernel.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.layout.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.licensekey.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfa.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfua.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.sign.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\itext.svg.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Buffers.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Memory.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\bin\Debug\System.ValueTuple.xml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Admin.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Admin8.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\AdminVerification.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\DataBases.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Login.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Otchetp.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Otchety.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie4u.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rasp_prepod.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Registration.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezim.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwo.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwour.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezimur.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Testw.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\App.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\App.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Admin.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Admin8.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\DataBases.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Login.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Otchetp.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Otchety.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie4u.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rasp_prepod.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Registration.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezim.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwo.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwour.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Rezimur.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Testw.baml
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.g.resources
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\________.C7548D7C.Up2Date
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\2.0 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Регистрация.exe.config
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Dynamitey.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\ExtraTools.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.barcodes.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.commons.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.font_asian.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.forms.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.html2pdf.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.io.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.kernel.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.licensekey.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfa.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfua.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.sign.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.svg.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignColors.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Buffers.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Memory.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.ValueTuple.dll
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Common.Logging.Core.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.barcodes.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.commons.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.font_asian.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.forms.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.html2pdf.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.io.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.kernel.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.layout.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.licensekey.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfa.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.pdfua.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.sign.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\itext.svg.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Buffers.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Drawing.Common.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Memory.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\bin\Debug\System.ValueTuple.xml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Admin.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Admin8.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\AdminVerification.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\DataBases.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Login.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Otchetp.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Otchety.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie4u.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rasp_prepod.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Registration.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezim.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwo.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwour.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezimur.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\App.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\App.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Admin.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Admin8.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\DataBases.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Login.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Otchetp.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Otchety.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Raspisanie4u.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rasp_prepod.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Registration.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezim.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwo.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezimtwour.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rezimur.baml
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.g.resources
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\________.C7548D7C.Up2Date
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rasp_stup.g.cs
+C:\Users\sasaa\OneDrive\Desktop\2.1 09.09.2024 Raspisanie-main\obj\Debug\Rasp_stup.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Регистрация.exe.config
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Common.Logging.Core.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Common.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Dynamitey.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\EntityFramework.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\ExtraTools.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.barcodes.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.commons.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.font_asian.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.forms.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.html2pdf.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.io.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.kernel.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.licensekey.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.pdfa.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.pdfua.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.sign.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.svg.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\MaterialDesignColors.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Buffers.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Drawing.Common.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Memory.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.ValueTuple.dll
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Common.Logging.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Common.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Common.Logging.Core.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Common.Logging.Core.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\EntityFramework.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.barcodes.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.commons.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.font_asian.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.forms.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.html2pdf.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.io.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.kernel.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.layout.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.licensekey.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.pdfa.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.pdfua.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.sign.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\itext.svg.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Buffers.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Drawing.Common.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Drawing.Common.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Memory.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\System.ValueTuple.xml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Admin.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Admin8.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\AdminVerification.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\DataBases.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Login.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Otchetp.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Otchety.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Raspisanie.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Raspisanie4u.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rasp_prepod.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Registration.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rezim.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rezimur.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rasp_stup.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\App.g.cs
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\App.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Admin.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Admin8.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\DataBases.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Login.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Otchetp.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Otchety.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Raspisanie.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Raspisanie4u.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rasp_prepod.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Registration.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rezim.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rezimur.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Rasp_stup.baml
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.g.resources
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\________.C7548D7C.Up2Date
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Регистрация.exe.manifest
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\bin\Debug\Регистрация.application
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.exe.manifest
+C:\Users\sasaa\OneDrive\Desktop\Ласт версия\obj\Debug\Регистрация.application
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Регистрация.exe.config
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Регистрация.exe.manifest
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Регистрация.application
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Common.Logging.Core.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Common.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Dynamitey.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\EntityFramework.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\ExtraTools.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.barcodes.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.commons.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.font_asian.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.forms.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.html2pdf.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.io.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.kernel.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.licensekey.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.pdfa.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.pdfua.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.sign.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.svg.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\MaterialDesignColors.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Buffers.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Drawing.Common.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Memory.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.ValueTuple.dll
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Common.Logging.pdb
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Common.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Common.Logging.Core.pdb
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Common.Logging.Core.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\EntityFramework.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.barcodes.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.commons.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.font_asian.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.forms.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.html2pdf.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.io.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.kernel.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.layout.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.licensekey.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.pdfa.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.pdfua.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.sign.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\itext.svg.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Buffers.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Drawing.Common.pdb
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Drawing.Common.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Memory.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\bin\Debug\System.ValueTuple.xml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Admin.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Admin8.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\DataBases.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Login.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Otchetp.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Otchety.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Raspisanie.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Raspisanie4u.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Raspisanie_ych.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rasp_prepod.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Registration.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rezim.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rezimur.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rasp_stup.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\App.baml
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Admin.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Admin8.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\AdminVerification.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\DataBases.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Login.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Otchetp.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Otchety.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Raspisanie.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Raspisanie4u.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Raspisanie_ych.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rasp_prepod.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Registration.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rezim.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rezimur.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Rasp_stup.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\App.g.cs
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.g.resources
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.exe.manifest
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.application
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\________.C7548D7C.Up2Date
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\11.09.2024 Ласт версия\obj\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Регистрация.exe.config
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Регистрация.exe.manifest
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Регистрация.application
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Common.Logging.Core.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Common.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Dynamitey.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Enterprises.itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\EntityFramework.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\ExtraTools.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.barcodes.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.commons.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.font_asian.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.forms.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.html2pdf.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.io.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.kernel.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.layout.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.licensekey.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.pdfa.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.pdfua.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.sign.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.svg.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\MaterialDesignColors.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Buffers.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Drawing.Common.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Memory.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.ValueTuple.dll
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Common.Logging.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Common.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Common.Logging.Core.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Common.Logging.Core.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\EntityFramework.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.barcodes.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.commons.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.font_asian.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.forms.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.html2pdf.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.io.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.kernel.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.layout.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.licensekey.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.pdfa.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.pdfua.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.sign.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\itext.svg.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Buffers.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Drawing.Common.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Drawing.Common.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Memory.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\bin\Debug\System.ValueTuple.xml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.csproj.AssemblyReference.cache
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\AdminVerification.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Admin.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Admin8.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\AdminVerification.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\DataBases.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Login.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Otchetp.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Otchety.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Raspisanie.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Raspisanie4u.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Raspisanie_ych.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rasp_prepod.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Registration.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rezim.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rezimur.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rasp_stup.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\App.g.cs
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация_MarkupCompile.cache
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация_MarkupCompile.lref
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\App.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Admin.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Admin8.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\DataBases.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Login.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Otchetp.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Otchety.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Raspisanie.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Raspisanie4u.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Raspisanie_ych.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rasp_prepod.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Registration.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rezim.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rezimur.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Rasp_stup.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.g.resources
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.exe.manifest
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.application
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\________.C7548D7C.Up2Date
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.exe
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\Регистрация.pdb
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\DataEntryDialog.baml
+C:\Users\sasaa\OneDrive\Desktop\1.1 11.09.2024 Ласт версия\obj\Debug\DataEntryDialog.g.cs

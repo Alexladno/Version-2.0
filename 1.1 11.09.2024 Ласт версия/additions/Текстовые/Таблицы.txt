@@ -1,0 +1,53 @@
+ create table anikashin(
+  id int IDENTITY(1,1) PRIMARY KEY not null,
+  name_day varchar(50) not null,
+  name_predmet varchar(50) not null,
+  name_grup varchar(50) not null,
+  fio_prepod varchar(50) not null,
+  para int not null,
+  number_aud int,
+  data_pari varchar(50),
+  podmena varchar(50)
+  );
+
+
+
+  create table ninea(
+  id int IDENTITY(1,1) PRIMARY KEY not null,
+  name_day varchar(50) not null,
+  name_predmet varchar(50) not null,
+  name_class varchar(50) not null,
+  fio_prepod varchar(50) not null,
+  yrok int not null,
+  number_aud int,
+  data_yroka date not null,
+  podmena varchar(50)
+  );
+
+
+create table oneisip22(
+  id int IDENTITY(1,1) PRIMARY KEY not null,
+  name_day varchar(50) not null,
+  name_predmet varchar(50) not null,
+  name_grup varchar(50) not null,
+  fio_prepod varchar(50) not null,
+  para int not null,
+  number_aud int not null,
+  data_pari date not null,
+  podmena varchar(50)
+  );
+
+  create table users(
+id_users int IDENTITY(1,1) PRIMARY KEY NOT NULL,
+fio_users varchar(50) not null,
+email_users varchar(50) not null,
+pass_users varchar(50) not null,
+grups_and_fio varchar(50) not null,
+role_users varchar(50),
+otdelenie varchar(50) not null,
+verification_users bit
+);
+
+
+
+

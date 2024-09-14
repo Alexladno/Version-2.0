@@ -1,0 +1,5 @@
+Server=DESKTOP-0JVL8RG\SQLEXPRESS
+Baza=diplom
+Login=
+Pass=111111
+Email=admin@.

@@ -1,0 +1,9 @@
+
+insert into users values('Гончаров А.А', 'g@gmail.com', 111111, '1исип-22', 'студент','ППССЗ', 1);
+insert into users values('Телегин Д.А', 't@mail.com', 111111, '2иcиП-22', 'студент','ППССЗ', 1);
+insert into users values('Админ', 'admin@.', 111111, '2ИСиП-22', 'админ','ППКРС', 1);
+insert into users values('Препод', 'prepod@.', 111111, '2ИСиП-22', 'преподаватель','ППКРС', 1);
+insert into users values('Студент', 'student@.', 111111, '1исип-22', 'студент','ППССЗ', 1);
+insert into users values('Аникашин Д.И.', 'a@mail.com', 111111, 'anikashin', 'преподаватель','ППССЗ', 1);
+insert into users values('Ярцев К.Э.', 'ya@mail.', 111111, '2исип-22', 'студент','ППКРС', 1);
+insert into users values('Федосенко А.А.', 'test@.', 111111, 'fedosenko', 'преподаватель','ППКРС', 1);

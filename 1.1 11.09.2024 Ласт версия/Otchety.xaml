@@ -1,0 +1,35 @@
+﻿<Window x:Class="Регистрация.Otchety"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Регистрация"
+        mc:Ignorable="d"
+        Title="Otchetp" Height="750" Width="1300">
+    <Grid>
+        <DataGrid x:Name="dataGrid" Margin="39,38,957,327"/>
+        <ComboBox Margin="385,38,465,646" x:Name="predm">
+            <ComboBoxItem x:Name="angl">Английский</ComboBoxItem>
+            <ComboBoxItem x:Name="bd">База-данных</ComboBoxItem>
+            <ComboBoxItem x:Name="fizra">Физра</ComboBoxItem>
+            <ComboBoxItem x:Name="prog">Программирование</ComboBoxItem>
+            <ComboBoxItem x:Name="onec">1С-Предприятие</ComboBoxItem>
+            <ComboBoxItem x:Name="teor">Теория вероятности</ComboBoxItem>
+            <ComboBoxItem x:Name="vish">Высшая математика</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox Margin="385,72,465,612" x:Name="fioo">
+            <ComboBoxItem x:Name="rad">Радюхина</ComboBoxItem>
+            <ComboBoxItem x:Name="anik">Аникашин</ComboBoxItem>
+            <ComboBoxItem x:Name="yal">Яловая</ComboBoxItem>
+            <ComboBoxItem x:Name="dor">Дорошков</ComboBoxItem>
+            <ComboBoxItem x:Name="ydod">Удод</ComboBoxItem>
+            <ComboBoxItem x:Name="fyr">Фуркало</ComboBoxItem>
+            <ComboBoxItem x:Name="refatov">Рефатов</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="knopка" Margin="385,175,465,498" Content="Подтвердить" Click="Knopka_Click"/>
+        <Button x:Name="createReportButton" Margin="385,235,465,438" Content="Создать отчет" Click="CreateReportButton_Click"/>
+
+        <Label x:Name="vivod_kolvo" Margin="39,412,1001,271"/>
+    </Grid>
+</Window>
